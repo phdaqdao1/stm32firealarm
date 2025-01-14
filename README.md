@@ -6,5 +6,7 @@ file code STM32:
 - Thêm địa chỉ file thư viện
 
 file code ESP-01S:
-- nạp bằng Arduino IDE
-- chỉnh sửa theo chú thích trong code (wifi, địa chỉ localhost)
+- Nạp bằng Arduino IDE
+- Chỉnh sửa theo chú thích trong code (wifi, địa chỉ localhost)
+- Dùng board Generic ESP8266 Module
+- Tải Library cần thiết đã được thêm ở phần Include
